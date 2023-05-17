@@ -56,15 +56,11 @@
 ![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor)
 ![git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
 
- <div
-        style="display: flex;flex-direction:row;align-items: center;background-color: black; width: 200px;border-radius: 5px; gap: 4px;">
-        <img
-            src="https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-a238-f5414ed5e534.svg"> 
-    </div>
 
+# 📊 GitHub Stats:
 
-![DDS Cubos Academy](https://img.shields.io/badge/-DDS%20Cubos%20Academy-19272E?style=for-the-badge&link=https://cubos.academy/)
-
+![]()<br/>
+![](
 
 <!--
 https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-a238-f5414ed5e534.svg
@@ -74,9 +70,16 @@ https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-
 <a href="https://github.com/luannsct/github-readme-stats" >
   <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api?username=luannsct&custom_title=Luan&nbsp;Costa&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/luannsct/convoychat">
+<!-- <a href="https://github.com/luannsct/convoychat">
   <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsct&custom_title=Principais&nbsp;Linguagens&langs_count=8&theme=tokyonight" />
+</a> -->
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=luannsct">
+  <img style="height:190px" src="https://github-readme-streak-stats.herokuapp.com/?user=luannsct&theme=dark&hide_border=false">
 </a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsct">
+  <img style="height:190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsct&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</a>
+
 
 ## Autores
 
