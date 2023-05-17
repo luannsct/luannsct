@@ -6,9 +6,11 @@
 ## Sobre Mim
 
 💻 Eu sou um desenvolvedor [Front-End | Back-End ]
-![CubosAcademy](https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-a238-f5414ed5e534.svg)
 
-🎓 Eu estudo [[Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)] @ [ [Cubos Academy](https://cubos.academy/) ] 
+🎓 Eu estudo [[Desenvolvimento de Software com Foco em Back-End](https://cubos.academy)] na <a href="https://cubos.academy/cursos/desenvolvimento-de-software-v2/" style="display:fex;background-color:#e4047c;padding:5px;border-radius:5px;gap:10px;color:white;font-weight:bold; text-decoration:none">
+  <img style="border-radius:5px" src="https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-a238-f5414ed5e534.svg">
+  <span>Cubos Academy</span>
+</a>
 | [
 [Desenvolvimento Front-End](https://app.rocketseat.com.br/discover)] @ [ [Rocketseat](https://app.rocketseat.com.br/) ] | [
 [Desenvolvimento FullSatck](https://cursos.dankicode.com/cursos)] @ [ [DankiCode](https://cursos.dankicode.com) ]
@@ -59,15 +61,8 @@
 
 # 📊 Estatísticas do GitHub:
 
-
-
-<!--
-https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-a238-f5414ed5e534.svg
--->
-
-
 <a href="https://github.com/luannsct/github-readme-stats" >
-  <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api?username=luannsct&custom_title=Luan&nbsp;Costa&show_icons=true&theme=tokyonight" />
+  <img align="center" style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=luannsct&custom_title=Luan&nbsp;Costa&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=luannsct">
   <img style="height:190px" src="https://github-readme-streak-stats.herokuapp.com/?user=luannsct&theme=dark&hide_border=false">
@@ -77,15 +72,10 @@ https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-
 </a>
 
 
-## Autores
-
-- [@Luan Costa](https://www.github.com/luannsct/)
-
-
 ## Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luan.nsct)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luannsct/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5593992015813)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luan.nsct@gmail.com)
-</p>
+
