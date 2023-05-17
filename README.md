@@ -7,11 +7,7 @@
 
 💻 Eu sou um desenvolvedor [Front-End | Back-End ]
 
-🎓 Eu estudo [[Desenvolvimento de Software com Foco em Back-End](https://cubos.academy)] na 
-<a href="https://cubos.academy/cursos/desenvolvimento-de-software-v2/" style="background-color:#e4047c;padding:5px;border-radius:5px;gap:10px;color:white;font-weight:bold; text-decoration:none">
-  <img style="border-radius:5px" src="https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-a238-f5414ed5e534.svg">
-  <span>Cubos Academy</span>
-</a>
+🎓 Eu estudo [[Desenvolvimento de Software com Foco em Back-End](https://cubos.academy)] @ [ [Cubos Academy](https://cubos.academy) ]
 | [
 [Desenvolvimento Front-End](https://app.rocketseat.com.br/discover)] @ [ [Rocketseat](https://app.rocketseat.com.br/) ] | [
 [Desenvolvimento FullSatck](https://cursos.dankicode.com/cursos)] @ [ [DankiCode](https://cursos.dankicode.com) ]
