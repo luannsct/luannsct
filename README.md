@@ -63,10 +63,6 @@ https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-
 -->
 
 
-![DDS Cubos Academy](https://img.shields.io/badge/-DDS%20Cubos%20Academy-19272E?style=for-the-badge&?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzExMTRfMjMpIj4KPHBhdGggZD0iTTE3Ljk5OTUgMEg2LjAwMDUyQzIuNjg1MzcgMCAwIDIuNjg2NTggMCA2LjAwMDUxVjE3Ljk5OTVDMCAyMS4zMTM0IDIuNjg1MzcgMjQgNi4wMDA1MiAyNEgxNy45OTk1QzIxLjMyNSAyNCAyNCAyMS4zMTM0IDI0IDE3Ljk5OTVWNi4wMDA1MUMyNCAyLjY4NjU4IDIxLjMxNDYgMCAxNy45OTk1IDBaTTE3Ljk5OTUgMS43NzAwMUMxOC41NjE0IDEuNzc0OCAxOS4xMTY4IDEuODg4MDQgMTkuNjM0MSAyLjEwMzI3QzIwLjE1MTMgMi4zMTg1IDIwLjYyMDIgMi42MzE0OSAyMS4wMTM5IDMuMDI0MzZDMjEuNDA3NyAzLjQxNzIzIDIxLjcxODYgMy44ODIyOCAyMS45Mjg5IDQuMzkyOTRDMjIuMTM5MiA0LjkwMzYgMjIuMjQ0OCA1LjQ0OTg2IDIyLjIzOTUgNi4wMDA1MVYxNy45OTk1QzIyLjI0NDggMTguNTUwMSAyMi4xMzkyIDE5LjA5NjQgMjEuOTI4OSAxOS42MDcxQzIxLjcxODYgMjAuMTE3NyAyMS40MDc3IDIwLjU4MjggMjEuMDEzOSAyMC45NzU2QzIwLjYyMDIgMjEuMzY4NSAyMC4xNTEzIDIxLjY4MTUgMTkuNjM0MSAyMS44OTY3QzE5LjExNjggMjIuMTEyIDE4LjU2MTQgMjIuMjI1MiAxNy45OTk1IDIyLjIzSDYuMDAwNTJDNC44NjcxMyAyMi4yMTgyIDMuNzg0ODcgMjEuNzY2IDIuOTkxNDMgMjAuOTcyOEMyLjE5Nzk5IDIwLjE3OTYgMS43NTgyNCAxOS4xMTAyIDEuNzY4NzcgMTcuOTk5NVY2LjAwMDUxQzEuNzU4MjQgNC44ODk4MSAyLjE5Nzk5IDMuODIwNDIgMi45OTE0MyAzLjAyNzIxQzMuNzg0ODcgMi4yMzQwMSA0Ljg2NzEzIDEuNzgxODMgNi4wMDA1MiAxLjc3MDAxSDE3Ljk5OTVaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTEuMjgzOSA0LjQ5MzI2SDEzLjU0NTNMOC4xNzg3MiAxOS41MDY4SDUuOTE3MzZMMTEuMjgzOSA0LjQ5MzI2WiIgZmlsbD0iI0U1MDA3QiIvPgo8cGF0aCBkPSJNMTUuODIzMyA0LjQ5MzI2SDE4LjA4MjZMMTIuNzE2IDE5LjUwNjhIMTAuNDU0N0wxNS44MjMzIDQuNDkzMjZaIiBmaWxsPSIjRTUwMDdCIi8+CjwvZz4KPGRlZnM+CjxjbGlwUGF0aCBpZD0iY2xpcDBfMTExNF8yMyI+CjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0id2hpdGUiLz4KPC9jbGlwUGF0aD4KPC9kZWZzPgo8L3N2Zz4K)
-
-
-
 <a href="https://github.com/luannsct/github-readme-stats" >
   <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api?username=luannsct&custom_title=Luan&nbsp;Costa&show_icons=true&theme=tokyonight" />
 </a>
@@ -96,6 +92,8 @@ olaMundo();
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Redes Sociais
+
+[![Cubos Academy](ttps://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-a238-f5414ed5e534.svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luan.nsct)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luannsct/)
