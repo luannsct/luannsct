@@ -55,7 +55,15 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-yellow?style=for-the-badge&logo=Wordpress&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor)
 ![git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
-![ORATÓRIA](https://img.shields.io/badge/ORATORIA-black?style=for-the-badge&logo=&logoColor)
+
+<div
+        style="display: flex;flex-direction:row;align-items: center;background-color: white; color:black ; width: 200px;border-radius: 5px; gap: 4px;">
+        <img
+            src="https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-a238-f5414ed5e534.svg">
+        <span style="color: white;"> Cubos Academy</span>
+    </div>
+
+
 
 
 <!--
