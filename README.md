@@ -57,10 +57,9 @@
 ![git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 Estatísticas do GitHub:
 
-![]()<br/>
-![](
+
 
 <!--
 https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-a238-f5414ed5e534.svg
@@ -70,9 +69,6 @@ https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-
 <a href="https://github.com/luannsct/github-readme-stats" >
   <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api?username=luannsct&custom_title=Luan&nbsp;Costa&show_icons=true&theme=tokyonight" />
 </a>
-<!-- <a href="https://github.com/luannsct/convoychat">
-  <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsct&custom_title=Principais&nbsp;Linguagens&langs_count=8&theme=tokyonight" />
-</a> -->
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=luannsct">
   <img style="height:190px" src="https://github-readme-streak-stats.herokuapp.com/?user=luannsct&theme=dark&hide_border=false">
 </a>
@@ -86,25 +82,7 @@ https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-
 - [@Luan Costa](https://www.github.com/luannsct/)
 
 
-## Uso/Exemplos
-
-```javascript
-const olaMundo = () => {
-    console.log("Olá Mundo!");
-}
-
-olaMundo();
->Olá Mundo!
-```
-
-
-## Etiquetas
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 ## Redes Sociais
-
-[![Cubos Academy](ttps://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-a238-f5414ed5e534.svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luan.nsct)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luannsct/)
