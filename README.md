@@ -56,13 +56,12 @@
 ![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor)
 ![git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
 
-<div
-        style="display: flex;flex-direction:row;align-items: center;justify-content:center;background-color: black; color:white ; width: 200px;border-radius: 5px; gap: 4px;">
+ <div
+        style="display: flex;flex-direction:row;align-items: center;background-color: black; width: 200px;border-radius: 5px; gap: 4px;">
         <img
             src="https://user-images.githubusercontent.com/31699879/236211036-7b3cf9f0-5d95-4804-a238-f5414ed5e534.svg">
-        <span style="color: white;"> Cubos Academy</span>
+            ![DDS Cubos Academy](https://img.shields.io/badge/-DDS%20Cubos%20Academy-19272E?style=for-the-badge&link=https://cubos.academy/)
     </div>
-
 
 
 
