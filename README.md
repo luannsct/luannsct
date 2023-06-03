@@ -66,7 +66,7 @@
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=luannsct">
    <img align="center" style="height: 190px;" src="http://github-readme-streak-stats.herokuapp.com?user=luannsct&theme=radical&hide_border=true&locale=pt_BR&card_width=400" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsct">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsct"style="{align:center;}">
   <img style="height:190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsct&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </a>
 
