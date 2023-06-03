@@ -62,7 +62,7 @@
   <img align="center" style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=luannsct&count_private=true&custom_title=Luan&nbsp;Costa&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=luannsct">
-  <img style="height:190px" src="https://github-readme-streak-stats.herokuapp.com/?user=luannsct&theme=dark&hide_border=false">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fluannsct%2Fluannsct&theme=dark&hide_border=true&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsct">
   <img style="height:190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsct&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
