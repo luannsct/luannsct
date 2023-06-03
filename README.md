@@ -59,7 +59,7 @@
 # 📊 Estatísticas do GitHub:
 
 <a href="https://github.com/luannsct/github-readme-stats" >
-  <img align="center" style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=luannsct&custom_title=Luan&nbsp;Costa&show_icons=true&theme=tokyonight" />
+  <img align="center" style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=luannsct&custom_title=Luan&nbsp;Costa&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=luannsct">
   <img style="height:190px" src="https://github-readme-streak-stats.herokuapp.com/?user=luannsct&theme=dark&hide_border=false">
