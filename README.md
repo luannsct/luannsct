@@ -58,7 +58,7 @@
 
 # 📊 Estatísticas do GitHub:
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luannsct)](https://github.com/luannsct/github-readme-stats)
 
 <a href="https://github.com/luannsct/github-readme-stats" >
   <img align="center" style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=luannsct&count_private=true&custom_title=Luan&nbsp;Costa&show_icons=true&theme=tokyonight" />
