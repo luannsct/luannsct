@@ -51,15 +51,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luannsct)](https://github.com/luannsct/github-readme-stats)
 
-<a href="https://github.com/luannsct/github-readme-stats" >
-  <img align="center" style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=luannsct&count_private=true&custom_title=Luan&nbsp;Costa&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=luannsct">
-   <img align="center" style="height: 190px;" src="http://github-readme-streak-stats.herokuapp.com?user=luannsct&count_private=true&theme=radical&hide_border=true&locale=pt_BR&card_width=400" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsct"style="{align:center;}">
-  <img style="height:190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsct&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-</a>
 
 
 ## Redes Sociais
