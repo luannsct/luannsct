@@ -16,9 +16,6 @@
 
 ✒️ Eu gosto de no meu tempo livre ler mangás 😆;
 
-📚 Lendo: Cangaceiro JavaScript - Uma aventura no sertão da programação | [[Casa do Cógigo](https://www.casadocodigo.com.br/products/livro-cangaceiro-javascript?_pos=2&_sid=f4ee61ba6&_ss=r)]
-
-
 ### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
